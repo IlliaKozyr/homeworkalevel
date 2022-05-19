@@ -1,5 +1,4 @@
-
-<!DOCTYPE html>
+≈<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -13,7 +12,6 @@
 </head>
 <body>
    <div class="wrapper">
-     <div></div>
         <header class="header">
             <div class="container header-container">
                 <div class="header-block">
@@ -227,5 +225,8 @@
             </div>
         </footer>
    </div>
+
+
 </body>
 </html>
+
